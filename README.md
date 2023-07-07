@@ -1,35 +1,25 @@
-# DayOfWeek
 <h1 align="center">
-  <br>
-  Display Local Time
+  Day of the Week
 </h1>
 
 <p align="center">
-  <em>A simple web page that displays the local time using HTML, CSS, and JavaScript.</em>
+  <em>A web page that displays the current day of the week using JavaScript.</em>
 </p>
 
 ## Project Description
-This project features a web page that dynamically displays the local time using the power of HTML, CSS, and JavaScript. The displayed time is automatically updated every second, ensuring accurate and real-time information.
-
-## Features
-- Real-time Local Time: The web page displays the current local time, allowing users to stay updated.
-- Automatic Updates: The time display is automatically updated every second without requiring manual refreshing.
-- Customizable Styling: Users can easily modify the appearance of the time display by editing the CSS styles.
+This project features a web page that dynamically displays the current day of the week. The day is determined using JavaScript and is automatically updated whenever the page is loaded or refreshed.
 
 ## Project Structure
 The project consists of the following files:
 
 - `index.html`: This file contains the HTML structure of the web page.
-- `style.css`: This file contains the CSS styling rules to format the appearance of the time display.
-- `script.js`: This file contains the JavaScript code responsible for updating the time display.
+- `style.css`: This file contains optional CSS styling rules to customize the appearance of the page.
+- `script.js`: This file contains the JavaScript code responsible for determining and displaying the current day of the week.
 
-## Preview
-![Display Local Time Preview](https://example.com/preview.png)
 
 ## Instructions
-To run this project locally, follow the steps below:
+To use this project, follow the steps below:
 
 1. Clone the project repository:
 2. Open the `index.html` file in a web browser.
-3. The web page will display the current local time, and it will automatically update every second.
-
+3. The web page will display the current day of the week.
