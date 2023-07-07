@@ -1,6 +1,5 @@
 # DayOfWeek
 <h1 align="center">
-  <img src="https://example.com/your-logo.png" alt="Display Local Time Logo">
   <br>
   Display Local Time
 </h1>
